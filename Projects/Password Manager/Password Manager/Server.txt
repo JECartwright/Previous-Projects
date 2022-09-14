@@ -1,0 +1,1 @@
+Server=tcp:razerpasswordmanagereu.database.windows.net,1433;Initial Catalog=razerpasswordmanager;Persist Security Info=False;User ID=pinkgoat77;Password=Password1112;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;

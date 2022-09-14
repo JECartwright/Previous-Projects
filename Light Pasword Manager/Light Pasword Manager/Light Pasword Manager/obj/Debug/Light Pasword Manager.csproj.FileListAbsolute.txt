@@ -1,0 +1,12 @@
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\Light Pasword Manager.exe.config
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\Light Pasword Manager.exe
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\Light Pasword Manager.pdb
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light Pasword Manager.csprojResolveAssemblyReference.cache
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light_Pasword_Manager.Form1.resources
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light_Pasword_Manager.Properties.Resources.resources
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light Pasword Manager.csproj.GenerateResource.Cache
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light Pasword Manager.exe
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\documents\visual studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\obj\Debug\Light Pasword Manager.pdb
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\Documents\Visual Studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\MetroFramework.Design.dll
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\Documents\Visual Studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\MetroFramework.dll
+\\sutcfps2.sutc.internal\studentpersonal$\11cartwrightj\Documents\Visual Studio 2015\Projects\Light Pasword Manager\Light Pasword Manager\bin\Debug\MetroFramework.Fonts.dll

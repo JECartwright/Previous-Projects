@@ -1,0 +1,2 @@
+To test use username admin and password admin
+a simple password manager for multipull users
